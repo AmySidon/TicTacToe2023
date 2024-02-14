@@ -4,9 +4,7 @@
 // Author: Amy Sidon
 // Date: November 29, 2023
 // Assignment Number: 4
-// CS 2308 Spring 2023
-// Instructor: Xiaomin Li
-//
+// CS 2308
 // Manages a tic tac toe game that allows players to move or undo the most
 // recent of their opponents moves when it is their turn.
 
