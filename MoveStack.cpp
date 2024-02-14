@@ -2,9 +2,7 @@
 // Author: Amy Sidon
 // Date: November 29, 2023
 // Assignment Number: 4
-// CS 2308 Sprin 2023
-// Instructor: Xiaomin Li
-//
+// CS 2308 
 // MoveStack A regular stack that stores instances of the Move structure.
 // A Move records the coordinates of the 'x' or 'o' token placed on the game board.
 // All past moves are stored here. The stack is required in order to be able to undo moves.
