@@ -3,7 +3,7 @@
 // Author: Amy Sidon
 // Date: November 29, 2023
 // Assignment Number: 4
-// CS 2308 Sprin 2023
+// CS 2308 
 // Instructor: Xiaomin Li
 //
 // GameState represents the current state of a tic tac toe game that allows
